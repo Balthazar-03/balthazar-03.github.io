@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cloud.feuneksrost.eu/api/public/dl/cX332U8j/Art/Feuneksrost%20pfp/Feuneksrost%20Logo_V2.svg
+avatar: https://cloud.feuneksrost.eu/api/public/dl/Vatgcd43/Art/Feuneksrost%20pfp/Feuneksrost%20Logo_V2.webp
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
